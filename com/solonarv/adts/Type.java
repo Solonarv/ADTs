@@ -1,6 +1,6 @@
 package com.solonarv.adts;
 
-abstract class Type {
+public abstract class Type {
     
     public static final Type Null = new Type(){
         @Override

@@ -1,6 +1,6 @@
 package com.solonarv.adts;
 
-class Pair<T, U> implements Typed {
+public class Pair<T, U> implements Typed {
     public final T left;
     public final U right;
     
